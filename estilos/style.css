@@ -14,3 +14,24 @@ main{
     padding: 10px;
     box-shadow: 3px 3px 5px rgb(49, 41, 41);
 }
+
+h1{
+    font-size: 2em;
+    color: rgb(115, 115, 194);
+}
+
+h2{
+    font-size: 1.5em;
+    color: rgb(160, 104, 104);
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(133, 187, 169);
+
+}
+
+a:houver
+
+}
