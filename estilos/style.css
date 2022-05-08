@@ -25,6 +25,9 @@ h2{
     color: rgb(160, 104, 104);
 }
 
+image.lado {
+    float: right;
+}
 a{
     text-decoration: none;
     font-weight: bold;
@@ -32,6 +35,9 @@ a{
 
 }
 
-a:houver
+a:houver {
 
+    text-decoration: underline;
+    color: blue;
 }
+
